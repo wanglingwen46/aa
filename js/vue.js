@@ -1,0 +1,1 @@
+https://vuejs.org/js/vue.min.js
